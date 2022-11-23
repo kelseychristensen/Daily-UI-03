@@ -1,0 +1,230 @@
+/*COLORS: */
+/*#243943*/
+/*395144*/
+/*	37, 57, 67 */
+
+/*____________CONFIG_____________*/
+
+body, html {
+    margin: 0;
+    height: 100%;
+}
+
+/*____________FONTS_____________*/
+
+/*main heading*/
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6rem;
+    padding: 10% 5% 5% 0;
+}
+
+/*other headings*/
+
+h2 {
+    color: #243943;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 5rem;
+}
+
+/*menu text*/
+h3 {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1rem;
+
+}
+
+/*subheadings*/
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #243943;
+    font-weight: bolder;
+}
+
+h5 {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2rem;
+
+}
+
+/*body*/
+p {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.5rem;
+    color: #243943;
+}
+
+
+/*____________SECTIONS_____________*/
+
+/*
+top section
+*/
+
+.download {
+    background: linear-gradient(to right, #395144, rgb(37,57,67,40%));
+    color:white;
+    text-align: left;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.btn-light {
+    padding: 1%;
+    width: 15%;
+    border-radius: 10px;
+    color: #243943;
+    filter: drop-shadow(6px 6px 2px rgb(255,255,255, 40%));
+    margin: 0 2% 0 0;
+}
+
+.slogan {
+    padding: 8% 8% 8% 0;
+    width: 20%;
+
+}
+
+.mockup_container{
+    position: relative;
+}
+
+.mkt_mockup {
+    width: 20%;
+    transform: rotate(-20deg);
+    position: absolute;
+    top: 10vh;
+    right: 5vw;
+}
+
+.list_mockup {
+    width: 15%;
+    transform: rotate(-20deg);
+    position: absolute;
+    top: 45vh;
+    right: 15vw;
+    overflow: hidden;
+}
+
+.meals_mockup {
+    width: 10%;
+    transform: rotate(-20deg);
+    position: absolute;
+    top: 23vh;
+    right: 37vh;
+}
+
+.ideas_mockup {
+    width: 12%;
+    transform: rotate(-110deg);
+    position: absolute;
+    top: -10vh;
+    right: 30vh;
+}
+
+.me_mockup {
+    width: 12%;
+    transform: rotate(-110deg);
+    position: absolute;
+    top: -4vh;
+    right: -6vh;
+}
+
+.plans_mockup {
+    width: 10%;
+    transform: rotate(-20deg);
+    position: absolute;
+    top: 20vh;
+    right: -3vw;
+}
+
+.stores_mockup {
+    width: 12%;
+    transform: rotate(-110deg);
+    position: absolute;
+    top: 47vh;
+    right: 2vh;
+}
+
+.shop_mockup {
+    width: 12%;
+    transform: rotate(-20deg);
+    position: absolute;
+    top: 43vh;
+    right: -12vw;
+}
+
+/*signup section*/
+
+.signup {
+    padding-top: 4%;
+    overflow: hidden;
+}
+
+.sign-up-subtitle {
+    padding-top: 8%;
+}
+
+.burger {
+    width: 40%;
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 975px;
+    right: -300px;
+}
+
+input[type=text] {
+    width: 75%;
+    padding: 19px 20px;
+    margin: 8px 10px 8px 0;
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    font-weight: 400;
+    font-style: italic;
+    vertical-align: bottom;
+}
+
+input[type=submit] {
+    display: block;
+    background: #243943;
+    padding: 10px;
+    margin: 8% 0;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    width: 15%;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+/*about*/
+
+.about {
+    padding: 5% 0;
+    background: linear-gradient(to right, #395144, rgb(37,57,67,40%));
+
+}
+
+.about-text {
+    padding: 5% 0;
+}
+
+/*content*/
+
+.contact {
+    background-image: url("images/ales-krivec-QnNqGoCnBg0-unsplash (1).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5%;
+}
+
+.contact h2 {
+    padding-bottom: 5%;
+}
+
+.address-text {
+    padding: 5%;
+    background: rgb(250, 250, 250, 60%);
+}
