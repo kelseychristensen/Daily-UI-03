@@ -8,8 +8,8 @@ challange.</a></p>
 
 ## Links
 
-- [Repo](https://github.com/kelseychristensen/Daily-UI-Day-03 "Daily UI Day 03 Repo")
-- [Dribbble](https://dribbble.com/shots/19952876-Daily-UI-Day-02-Credit-Card-Form "Dribbble Link")
+- [Repo](https://github.com/kelseychristensen/Daily-UI-03 "Daily UI Day 03 Repo")
+- [Dribbble](https://dribbble.com/shots/19963088-Daily-UI-Day-03-Splash-Page "Dribbble Link")
 
 ## Screenshots
 
@@ -27,7 +27,7 @@ challange.</a></p>
 - HTML
 - CSS
 - Bootstrap
-- 
+
 ### What went into this project
 
 This turned into a challenge within a challenge. Because I wanted to use mockups in my design for this fictional app website, I had to design the UI of those too (although I focused way less on that UI than the site UI).
