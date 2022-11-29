@@ -9,7 +9,7 @@ challange.</a></p>
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-03 "Daily UI Day 03 Repo")
-- [Dribbble](https://dribbble.com/shots/19963088-Daily-UI-Day-03-Splash-Page "Dribbble Link")
+- [Dribbble](https://dribbble.com/shots/20017795-Daily-UI-Day-003-Splash-Page "Dribbble Link")
 
 ## Screenshots
 
